@@ -1,0 +1,67 @@
+body {
+  color: maroon;
+  margin: 20p;
+}
+
+nav {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Crimson Text', serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Crimson Text', serif;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5em;
+}
+
+h4 {
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+}
+
+h5 {
+  font-family: 'Crimson Text', serif;
+  font-size: .85em;
+}
+
+h6 {
+  font-family: 'Crimson Text', serif;
+  font-size: .67em;
+}
+
+ul {
+  list-style: url('https://image.flaticon.com/icons/svg/600/600776.svg');
+  list-style-position: inside;
+}
+
+/* ol {
+  list-style: none;
+} */
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 10pt;
+}
+
+aside {
+  text-align: justify;
+  color: slategrey;
+}
+
+img {
+  height: 300px;
+}
+
+article {
+
+}
